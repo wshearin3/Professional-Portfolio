@@ -10,6 +10,15 @@ padding-left: 1rem;
 .main{
     background-color: aqua;
 }
+.about-me{
+    display: flexbox;
+    color: whitesmoke;
+    background-color: rgb(25, 25, 139);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: .5rem;
+    padding: 1rem;
+    border-radius: 5px;
+}
 
 .contact-info{
     display: box;
