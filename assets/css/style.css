@@ -24,6 +24,7 @@ padding-left: 1rem;
     display: flex;
     flex-direction: row;
     float: inline;
+    justify-content: space-evenly;
 }
 
 img{
