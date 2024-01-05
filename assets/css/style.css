@@ -12,12 +12,23 @@ padding-left: 1rem;
 }
 .about-me{
     display: flexbox;
+    flex-direction: row;
     color: whitesmoke;
     background-color: rgb(25, 25, 139);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: .5rem;
     padding: 1rem;
     border-radius: 5px;
+}
+img{
+    display: flex;
+    flex-direction: row;
+    border-radius: 5px;
+    max-width: 100px;
+}
+.summary{
+    display: flex;
+    flex-direction: row;
 }
 
 .contact-info{
