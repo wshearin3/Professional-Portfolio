@@ -1,14 +1,19 @@
 .page-header{
 display: flex;
+border-radius: 5px;
 background-color: rgb(25, 25, 139);
 color: whitesmoke;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 margin: .5rem;
 padding-left: 1rem;
 }
+.main{
+    background-color: aqua;
+}
 
 .contact-info{
     display: block;
+    border-radius: 5px;
     background-color: rgb(25, 25, 139);
     color: whitesmoke;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
