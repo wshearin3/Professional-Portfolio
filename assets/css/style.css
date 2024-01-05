@@ -27,8 +27,9 @@ img{
     max-width: 100px;
 }
 .summary{
-    display: flex;
+    display: flexbox;
     flex-direction: row;
+    float: inline;
 }
 
 .contact-info{
