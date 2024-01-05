@@ -1,0 +1,8 @@
+.page-header{
+display: flex;
+background-color: rgb(25, 25, 139);
+color: whitesmoke;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin-left: 1rem;
+padding-left: 2rem;
+}
