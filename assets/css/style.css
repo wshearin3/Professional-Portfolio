@@ -41,14 +41,20 @@ h2{
     margin: .5rem;
     padding: 1rem;
     border-radius: 5px;
-
-
 }
 .accessibility{
     display: flex;
     flex-direction: row;
     float: inline;
     justify-content: flex flex-start ;
+    margin-left: .5rem;
+    border: 5px solid black;
+    border-radius: 5px;
+    background-color: aqua;
+    padding-left: 1rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    margin-right: .5rem;
 
 }
 
