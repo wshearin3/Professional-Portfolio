@@ -24,7 +24,7 @@ padding-left: 1rem;
     display: flex;
     flex-direction: row;
     float: inline;
-    justify-content: space-evenly;
+    justify-content: flex start;
 }
 
 img{
@@ -32,6 +32,7 @@ img{
     flex-direction: row;
     border-radius: 5px;
     max-width: 100px;
+    margin-right: 1rem;
 }
 
 .contact-info{
