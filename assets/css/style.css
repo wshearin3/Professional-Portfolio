@@ -24,7 +24,7 @@ padding-left: 1rem;
     display: flex;
     flex-direction: row;
     float: inline;
-    justify-content: flex start;
+    justify-content: flex-start;
 }
 
 img{
@@ -33,6 +33,23 @@ img{
     border-radius: 5px;
     max-width: 100px;
     margin-right: 1rem;
+}
+h2{
+    background-color: rgb(4, 19, 71);
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: .5rem;
+    padding: 1rem;
+    border-radius: 5px;
+
+
+}
+.accessibility{
+    display: flex;
+    flex-direction: row;
+    float: inline;
+    justify-content: flex flex-start ;
+
 }
 
 .contact-info{
