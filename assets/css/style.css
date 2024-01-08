@@ -10,6 +10,12 @@ padding-left: 1rem;
 .main{
     background-color: aqua;
 }
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
 .about-me{
     display: flex;
     flex-direction: column;
@@ -88,7 +94,7 @@ h4{
     text-align: center;
 }
 
-li{
+.contact-details li{
 margin-left: .75rem;
 }
 a{
