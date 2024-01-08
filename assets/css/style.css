@@ -57,6 +57,11 @@ h2{
     margin-right: .5rem;
 
 }
+.accessibility p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(4, 19, 71);
+
+}
 
 .contact-info{
     display: box;
