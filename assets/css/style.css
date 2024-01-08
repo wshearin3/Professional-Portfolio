@@ -44,6 +44,7 @@ img{
     flex-direction: row;
     border-radius: 5px;
     max-width: 100px;
+    max-height: 100px;
     margin-right: 1rem;
 }
 h2{
