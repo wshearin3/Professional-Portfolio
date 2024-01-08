@@ -1,11 +1,13 @@
 .page-header{
 display: flex;
+flex-direction: column;
 border-radius: 5px;
 background-color: rgb(25, 25, 139);
 color: whitesmoke;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 margin: .5rem;
 padding-left: 1rem;
+padding-bottom: .5rem;
 }
 .main{
     background-color: aqua;
@@ -15,6 +17,10 @@ ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
+}
+li{
+    display: inline;
+
 }
 .about-me{
     display: flex;
